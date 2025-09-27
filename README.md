@@ -11,7 +11,7 @@
 
 ---
 
-## I'm currently working with ...
+## I'm currently working / learning with ...
 
 **AWS Cloud Services**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -57,14 +57,6 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Boonyawee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbbyw&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbbyw&layout=compact&theme=radical)
 
 ---
 
